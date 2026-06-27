@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/c/Users/dell/OneDrive/Desktop/c++learning/include
+CXX_INCLUDES = -I/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include
 
 CXX_FLAGS =  -I/usr/include/SDL2 -D_REENTRANT -std=gnu++17
 

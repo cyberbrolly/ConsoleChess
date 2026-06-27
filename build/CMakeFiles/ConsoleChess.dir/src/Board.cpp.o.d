@@ -1,8 +1,8 @@
 CMakeFiles/ConsoleChess.dir/src/Board.cpp.o: \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Board.cpp \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Board.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Board.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Piece.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Board.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Piece.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \

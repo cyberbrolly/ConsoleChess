@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/dell/OneDrive/Desktop/c++learning/main.cpp" "CMakeFiles/ConsoleChess.dir/main.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/main.cpp.o.d"
-  "/mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/AI.cpp" "CMakeFiles/ConsoleChess.dir/src/AI.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/AI.cpp.o.d"
-  "/mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Board.cpp" "CMakeFiles/ConsoleChess.dir/src/Board.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Board.cpp.o.d"
-  "/mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Game.cpp" "CMakeFiles/ConsoleChess.dir/src/Game.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Game.cpp.o.d"
-  "/mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Piece.cpp" "CMakeFiles/ConsoleChess.dir/src/Piece.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Piece.cpp.o.d"
-  "/mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Renderer.cpp" "CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o.d"
+  "/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/main.cpp" "CMakeFiles/ConsoleChess.dir/main.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/main.cpp.o.d"
+  "/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/AI.cpp" "CMakeFiles/ConsoleChess.dir/src/AI.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/AI.cpp.o.d"
+  "/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Board.cpp" "CMakeFiles/ConsoleChess.dir/src/Board.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Board.cpp.o.d"
+  "/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Game.cpp" "CMakeFiles/ConsoleChess.dir/src/Game.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Game.cpp.o.d"
+  "/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Piece.cpp" "CMakeFiles/ConsoleChess.dir/src/Piece.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Piece.cpp.o.d"
+  "/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Renderer.cpp" "CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o" "gcc" "CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o.d"
   "" "ConsoleChess" "gcc" "CMakeFiles/ConsoleChess.dir/link.d"
   )
 

@@ -1,7 +1,7 @@
 CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o: \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Renderer.cpp \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Renderer.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Renderer.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Renderer.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_main.h \
  /usr/include/SDL2/SDL_stdinc.h /usr/include/SDL2/SDL_config.h \
  /usr/include/x86_64-linux-gnu/SDL2/_real_SDL_config.h \
@@ -250,8 +250,8 @@ CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o: \
  /usr/include/SDL2/SDL_version.h /usr/include/SDL2/SDL_locale.h \
  /usr/include/SDL2/SDL_misc.h /usr/include/SDL2/SDL_ttf.h \
  /usr/include/SDL2/SDL.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Board.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Piece.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Board.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Piece.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/stringfwd.h \
  /usr/include/c++/15/bits/memoryfwd.h \
  /usr/include/c++/15/bits/char_traits.h \
@@ -332,7 +332,7 @@ CMakeFiles/ConsoleChess.dir/src/Renderer.cpp.o: \
  /usr/include/c++/15/backward/auto_ptr.h \
  /usr/include/c++/15/pstl/glue_memory_defs.h \
  /usr/include/c++/15/pstl/execution_defs.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/AI.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/AI.h \
  /usr/include/c++/15/iostream /usr/include/c++/15/ostream \
  /usr/include/c++/15/bits/ostream.h /usr/include/c++/15/ios \
  /usr/include/c++/15/bits/ios_base.h \

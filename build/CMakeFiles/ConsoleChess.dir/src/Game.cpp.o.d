@@ -1,9 +1,9 @@
 CMakeFiles/ConsoleChess.dir/src/Game.cpp.o: \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/src/Game.cpp \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/src/Game.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Game.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Board.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/Piece.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Game.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Board.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/Piece.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -163,7 +163,7 @@ CMakeFiles/ConsoleChess.dir/src/Game.cpp.o: \
  /usr/include/c++/15/backward/auto_ptr.h \
  /usr/include/c++/15/pstl/glue_memory_defs.h \
  /usr/include/c++/15/pstl/execution_defs.h \
- /mnt/c/Users/dell/OneDrive/Desktop/c++learning/include/AI.h \
+ /mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/include/AI.h \
  /usr/include/c++/15/iostream /usr/include/c++/15/ostream \
  /usr/include/c++/15/bits/ostream.h /usr/include/c++/15/ios \
  /usr/include/c++/15/bits/ios_base.h \

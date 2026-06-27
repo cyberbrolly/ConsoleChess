@@ -1,3 +1,3 @@
-/mnt/c/Users/dell/OneDrive/Desktop/c++learning/build/CMakeFiles/ConsoleChess.dir
-/mnt/c/Users/dell/OneDrive/Desktop/c++learning/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/dell/OneDrive/Desktop/c++learning/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/build/CMakeFiles/ConsoleChess.dir
+/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dell/OneDrive/Desktop/ConsoleChess/build/CMakeFiles/rebuild_cache.dir
